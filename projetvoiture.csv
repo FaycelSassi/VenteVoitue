@@ -1,0 +1,5 @@
+"idCommande","IdUser","IdVoiture","Date"
+"id","Email","Password","UserType"
+"1","buyer@mail.com","buyer","2"
+"2","customer@mail.com","customer","1"
+"idVoiture","NomVoiture","Description"
